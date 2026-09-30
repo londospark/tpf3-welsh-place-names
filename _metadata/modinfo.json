@@ -1,0 +1,15 @@
+{
+  "authors": [
+    {
+      "name": "ridecar2",
+      "role": "CREATOR"
+    }
+  ],
+  "description": "Adds a 'Welsh' town name set with real Welsh place names, including Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch. Select it under name set options when starting a game.",
+  "name": "Welsh Place Names",
+  "summary": "Real Welsh town names as a selectable name set",
+  "tags": [
+    "Script Mod"
+  ],
+  "url": ""
+}

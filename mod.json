@@ -1,0 +1,10 @@
+{
+  "modId": "welsh_place_names_1",
+  "revision": 1,
+  "severityAdd": "None",
+  "severityRemove": "None",
+  "visible": true,
+  "cosmetic": true,
+  "dependencies": null,
+  "incompatibilities": null
+}
