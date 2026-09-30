@@ -84,7 +84,27 @@ return {
 	"Cowbridge",
 	"Llanfairfechan",
 
+	--near Llandudno
+	"Deganwy",
+	"Llandudno Junction",
+	"Penrhyn Bay",
+	"Rhos-on-Sea",
+
+	--near Llansteffan (Tywi/Taf estuary, Carmarthen Bay)
+	"Llansteffan",
+	"Ferryside",
+	"Llangain",
+	"Llanybri",
+	"Llansaint",
+	"Kidwelly",
+	"Laugharne",
+	"St Clears",
+	"Carmarthen",
+	"Pembrey",
+	"Pendine",
+
 	--Talyllyn Railway (Tywyn to Nant Gwernol)
+	"Tywyn Wharf",
 	"Pendre",
 	"Hendy",
 	"Fach Goch",
@@ -92,6 +112,7 @@ return {
 	"Rhydyronen",
 	"Tynllwynhen",
 	"Brynglas",
+	"Quarry Siding",
 	"Dolgoch",
 	"Abergynolwyn",
 	"Nant Gwernol",
@@ -102,22 +123,46 @@ return {
 	"Maespoeth",
 	"Derwenlas",
 	"Morben",
+	"Ffridd Gate",
+	"Llwyngwern",
+	"Esgairgeiliog",
+	"Garneddwen",
 
 	--Ffestiniog Railway (Porthmadog to Blaenau Ffestiniog)
+	"Porthmadog Harbour",
+	"Boston Lodge",
+	"Pen Cob",
 	"Minffordd",
+	"Pen y Bryn",
 	"Penrhyn",
+	"Rhiw Goch",
+	"Plas Halt",
 	"Tan-y-Bwlch",
+	"Coed y Bleiddiau",
+	"Campbell's Platform",
 	"Dduallt",
+	"Gelliwiog",
+	"Llyn Ystradau",
 	"Tanygrisiau",
 
 	--Welsh Highland Railway (Caernarfon to Porthmadog)
+	"Bontnewydd",
 	"Dinas",
+	"Tryfan Junction",
 	"Waunfawr",
+	"Plas-y-Nant",
+	"Snowdon Ranger",
 	"Rhyd Ddu",
+	"Meillionen",
 	"Nantmor",
 	"Pont Croesor",
 
-	--lakes and rivers (concentrated around the same four heritage railways)
+	--Great Orme Tramway (Llandudno)
+	"Llandudno Victoria",
+	"Halfway",
+	"Summit",
+
+	--lakes and rivers (concentrated around the same four heritage railways, plus Llansteffan/Llandudno)
 	"Llyn Mwyngil",
 	"Afon Fathew",
 	"Afon Dysynni",
@@ -131,4 +176,7 @@ return {
 	"Llyn y Gadair",
 	"Llyn Dinas",
 	"Llyn Trawsfynydd",
+	"Afon Tywi",
+	"Afon Taf",
+	"Bae Caerfyrddin",
 }
