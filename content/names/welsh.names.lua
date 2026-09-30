@@ -1,9 +1,9 @@
 -- Name-set manifest, format confirmed from the base game's own
 -- names/england/england.names.lua: reuses the shared base-game
 -- /names/names.script@<fn> generators, pointed at this mod's own town-name
--- path for town names, while reusing the base game's existing England
--- street-name and UK person-name pools (Wales uses UK naming conventions
--- for streets/people; only settlement names are Welsh-specific here).
+-- and street-name paths. Person names still reuse the base game's
+-- unitedKingdom pool - Welsh personal-name generation is a much bigger
+-- undertaking than street/town lists and out of scope here.
 function data()
 return
 	{
@@ -31,7 +31,7 @@ return
 					en = "en",
 					fallback = "en",
 				},
-				path = "england"
+				path = "welsh_place_names_1_streets"
 			}
 		},
 	}

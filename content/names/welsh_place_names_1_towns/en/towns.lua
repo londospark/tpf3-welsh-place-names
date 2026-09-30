@@ -83,4 +83,52 @@ return {
 	"Llantwit Major",
 	"Cowbridge",
 	"Llanfairfechan",
+
+	--Talyllyn Railway (Tywyn to Nant Gwernol)
+	"Pendre",
+	"Hendy",
+	"Fach Goch",
+	"Cynfal",
+	"Rhydyronen",
+	"Tynllwynhen",
+	"Brynglas",
+	"Dolgoch",
+	"Abergynolwyn",
+	"Nant Gwernol",
+
+	--Corris Railway (Machynlleth to Aberllefenni)
+	"Corris",
+	"Aberllefenni",
+	"Maespoeth",
+	"Derwenlas",
+	"Morben",
+
+	--Ffestiniog Railway (Porthmadog to Blaenau Ffestiniog)
+	"Minffordd",
+	"Penrhyn",
+	"Tan-y-Bwlch",
+	"Dduallt",
+	"Tanygrisiau",
+
+	--Welsh Highland Railway (Caernarfon to Porthmadog)
+	"Dinas",
+	"Waunfawr",
+	"Rhyd Ddu",
+	"Nantmor",
+	"Pont Croesor",
+
+	--lakes and rivers (concentrated around the same four heritage railways)
+	"Llyn Mwyngil",
+	"Afon Fathew",
+	"Afon Dysynni",
+	"Afon Dulas",
+	"Afon Dyfi",
+	"Afon Glaslyn",
+	"Aberglaslyn",
+	"Afon Dwyryd",
+	"Traeth Mawr",
+	"Llyn Cwellyn",
+	"Llyn y Gadair",
+	"Llyn Dinas",
+	"Llyn Trawsfynydd",
 }
