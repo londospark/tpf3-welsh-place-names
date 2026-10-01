@@ -5,11 +5,12 @@
       "role": "CREATOR"
     }
   ],
-  "description": "Adds a 'Welsh' town name set with real Welsh place names, including Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch. Select it under name set options when starting a game.",
+  "description": "Croeso i Gymru! Adds a \"Welsh\" option to the Names box when starting a new game, so your towns, streets and residents are all named the Welsh way.\n\nTOWNS - 628 real Welsh places: the cities (Cardiff, Swansea, Wrexham, Bangor), the Valleys, market towns, seaside resorts and small villages from Holyhead to Chepstow, including the towns along the Talyllyn, Corris, Ffestiniog and Welsh Highland heritage railways. Yes, Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch is in there.\n\nSTREETS - 204 genuine Welsh street names (Stryd Fawr, Heol y Bont, Ffordd y Môr, Lôn Isaf, Maes-y-Dref, Teras y Capel...) instead of the English pool.\n\nRESIDENTS - 230 Welsh first names (Gareth, Dafydd, Rhiannon, Gethin, Angharad, Iolo, Myfanwy...) with 90 surnames common in Wales (Jones, Davies, Pritchard, Bowen, Vaughan, Llewellyn...).\n\nHOW TO USE: activate the mod, start a New Game, and pick \"Welsh\" in the Names box. Name sets are chosen when a map is created, so existing saves keep their old names.\n\nCosmetic only - safe to add or remove, no scripts run during play.",
   "name": "Welsh Place Names",
-  "summary": "Real Welsh town names as a selectable name set",
+  "summary": "Welsh town, street and resident names, selectable in the new-game Names box",
   "tags": [
-    "Script Mod"
+    "Script Mod",
+    "Resident"
   ],
   "url": ""
 }

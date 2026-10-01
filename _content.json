@@ -1,8 +1,10 @@
 {
   "archives": null,
   "files": [
-    "content/names/welsh.names.lua",
-    "content/names/welsh_place_names_1_towns/en/towns.lua",
-    "content/names/welsh_place_names_1_streets/en/streets.lua"
+    "names/welsh/welsh.names.lua",
+    "names/welsh/welsh.script.lua",
+    "names/welsh/en/person.lua",
+    "names/welsh/en/towns.lua",
+    "names/welsh/en/streets.lua"
   ]
 }
